@@ -1,0 +1,30 @@
+XP
+v 1 SUB_1
+v 2 SUB_1
+v 3 SUB_1
+v 4 c
+v 5 w
+v 6 w
+v 7 m
+v 8 c
+v 9 w
+v 10 w
+v 11 w
+v 12 s
+v 13 s
+v 14 s
+u 4 1 part
+u 4 2 part
+u 4 5 part
+u 4 6 part
+u 8 3 part
+u 8 9 part
+u 8 10 part
+u 8 11 part
+u 9 12 on
+u 9 13 on
+u 9 14 on
+u 12 13 p
+u 13 14 p
+u 4 7 ecm
+u 8 7 ecm

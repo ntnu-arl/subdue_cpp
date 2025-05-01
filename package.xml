@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>subdue</name>
+  <version>0.0.0</version>
+  <description>
+      Catkin and cpp wrapped version of Subdue graph pattern recognition algorithm
+  </description>
+  <maintainer email="mihir.dharmadhikari@ntnu.no">Mihir Dharmadhikari</maintainer>
+
+  <license>TBD</license>
+  
+  <author>Larry Holder</author>
+  <author>Mihir Dharmadhikari</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+</package>

@@ -1,0 +1,10 @@
+XP
+v 1 SUB_2
+v 2 SUB_2
+v 3 SUB_1
+v 4 SUB_1
+v 5 SUB_1
+u 5 2 con
+u 1 2 con
+u 4 2 con
+u 3 2 con
